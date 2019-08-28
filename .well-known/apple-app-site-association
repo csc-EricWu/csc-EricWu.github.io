@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "H843PBVDG6.com.simai.gccx",
+                "paths": [
+                    "/support/ios/",
+                    "/support/debug/*",
+                    "/link/"
+                ]
+            }
+        ]
+    }
+}
